@@ -1,4 +1,4 @@
-## Vladyslav Boretskyi — Full-Stack Developer
+## Vladyslav Boretskyi — Front-End Engineer
 
 Building production-grade web applications with **Next.js**, **TypeScript**, 
 and **Headless CMS** architecture. Every repo here is a live, deployed product.
